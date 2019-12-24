@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticNonStatic",
+            "request": "launch",
+            "mainClass": "coe.java.demos.c2.StaticNonStatic",
+            "projectName": "Lecture_example_204923a7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "coe.java.demos.c5.part1.Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakExample",
+            "request": "launch",
+            "mainClass": "coe.java.demos.c3.BreakExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AssignOpsDemo",
+            "request": "launch",
+            "mainClass": "coe.java.demos.c2.AssignOpsDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArithDemo",
+            "request": "launch",
+            "mainClass": "coe.java.demos.c2.ArithDemo"
+        }
+    ]
+}
